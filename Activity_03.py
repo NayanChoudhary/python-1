@@ -1,2 +1,5 @@
-print ("NayanChoudhary")
-print ("NayanChoudhary" * 5)
+s1=input()
+s2=input()
+print(s1+s2)
+print((s1+s2)*5)
+
