@@ -1,5 +1,4 @@
 a=input()
 b=input()
-print("\n")
 print(a+b)
 print((a+b)*5)
