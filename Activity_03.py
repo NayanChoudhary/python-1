@@ -1,8 +1,6 @@
 s1=input()
 s2=input()
-print(s1,s2,sep=" ")
-print(s1,s2,sep=" ")
-print(s1,s2,sep=" ")
-print(s1,s2,sep=" ")
-print(s1,s2,sep=" ")
-print(s1,s2,sep=" ")
+t=s1+s2
+l=[t for _ in range(6)]
+for i in l:
+    print(i)
